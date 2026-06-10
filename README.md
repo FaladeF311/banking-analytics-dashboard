@@ -172,8 +172,8 @@ FALADE FAVOUR TOLUWANIMI
 Data Analyst | Power BI Developer  
 📧 favourfalade0311@gmail.com 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/favour-falade )  
-🐙 [GitHub](https://github.com/Favour311)
+🐙 [GitHub](https://github.com/FaladeF311)
 
 
 
-*This project was built as part of a data analytics portfolio to demonstrate proficiency in Power BI, DAX, data modelling, and financial data storytelling.*
+
